@@ -19,5 +19,5 @@ B) Unsupervised Learning
 
   Learn K-Means and GMM clustering with optimal number of clusters from the dataset.
   
-  Use chi-square distribution test to analyze the dependence of cluster membership and parkinson's status.
+  Use chi-square distribution test to analyze the dependence of cluster membership and parkinson's status for both unsupervied learning models.
   

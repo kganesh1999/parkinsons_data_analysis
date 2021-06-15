@@ -3,7 +3,8 @@
 The intended goal of this dataset is to predict the status variable, which is a 0/1 indicator variable that describes if a patient has Parkinson’s based on attributes of speech 
 patterns. 
 
-Objectives: 
+Objectives:
+
 A) Supervised Learning
 
   Pruned Decision Trees, Random Forests, and Gradient Boosted Decision tree models are used to predict the 'status' response.

@@ -3,6 +3,8 @@
 The intended goal of this dataset is to predict the status variable, which is a 0/1 indicator variable that describes if a patient has Parkinson’s based on attributes of speech 
 patterns. 
 
+Models Used - Decision Tree Classifier, Random Forests, Gradient Boosted Decision tree, K-means and Gaussian Mixture Model
+
 Objectives:
 
 A) Supervised Learning
